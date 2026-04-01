@@ -8,6 +8,7 @@ import Team from "@/components/organisms/Team";
 import Features from "@/components/organisms/Features";
 import Gallery from "@/components/organisms/Gallery";
 
+import About from "@/components/organisms/About";
 
 export default function page() {
   return (

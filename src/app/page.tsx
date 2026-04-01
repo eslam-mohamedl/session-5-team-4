@@ -1,5 +1,8 @@
-import React from "react";
-
+import Navbar from "@/components/organisms/Navbar";
 export default function page() {
-  return <div>page</div>;
+  return (
+    <div>
+      <Navbar />
+    </div>
+  );
 }

@@ -6,6 +6,7 @@ import Hero from "@/components/organisms/Hero";
 import Testimonials from "@/components/organisms/Testimonials";
 import Team from "@/components/organisms/Team";
 import Features from "@/components/organisms/Features";
+import About from "@/components/organisms/About";
 import Gallery from "@/components/organisms/Gallery";
 
 

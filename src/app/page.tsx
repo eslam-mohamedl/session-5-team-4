@@ -10,6 +10,7 @@ export default function page() {
       <Testimonials />
       <Team />
       <Features />
+      page
     </div>
   );
 }

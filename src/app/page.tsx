@@ -1,4 +1,5 @@
 import Navbar from "@/components/organisms/Navbar";
+import About from "@/components/organisms/About";
 
 import Hero from "@/components/organisms/Hero";
 
@@ -12,6 +13,7 @@ export default function page() {
   return (
     <div>
       <Navbar />
+      <About />
       <Hero />
       <Testimonials />
       <Team />
